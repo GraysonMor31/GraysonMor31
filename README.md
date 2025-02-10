@@ -14,9 +14,10 @@ I'm currently working on:
 
 ## 🛠️ Technologies & Tools
 Here are some of the technologies I work with:
-- **Languages**: Python, C++, C#, Java, Scala
-- **Web Technologies**: HTML, CSS, React
-- **Databases**: MySQL, PostgreSQL
+- **Languages**: C++, C#, Java, Scala, Python
+- **Scripting**: Poweshell, Bash
+- **Web Technologies**: HTML, CSS, JavaScript
+- **Databases**: MySQL, MS SQL Sever 2022, PostgreSQL
 - **DevSecOps**: Docker, Azure, OWASP ZAP, Snyk, Github Actions
 
 ## 📈 GitHub Stats
@@ -41,19 +42,10 @@ Check out some of my recent projects:
 - [Encryption Schemes](https://github.com/GraysonMor31/Encryption)
 
   ![](https://geps.dev/progress/5) 
-- [Networking Fundamentals](https://github.com/GraysonMor31/Networks-Internet)
+- [Networking Fundamentals](https://github.com/GraysonMor31/Networks)
 
-  ![](https://geps.dev/progress/25)
-- [Databases](https://github.com/GraysonMor31/Databases) 
-
-  ![](https://geps.dev/progress/0)
-- [Data Structures & Algorithms](https://github.com/GraysonMor31/Data-Structures-Algorithms)
-
-  ![](https://geps.dev/progress/10)
-- [Cybersecurity Machine Learning](https://github.com/GraysonMor31/Cyber-ML)
-
-  ![](https://geps.dev/progress/85)
-- [Operating Systems](https://github.com/GraysonMor31/Operating-Systems)
+  ![](https://geps.dev/progress/0) 
+- [Networking Fundamentals](https://github.com/GraysonMor31/Networks) 
 
   ![](https://geps.dev/progress/0)
 - [Home Lab](https://github.com/GraysonMor31/Homelab)
