@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate IT Support Tech/Analyst interested in cyb
 I'm currently working on:
 - 🔒 Implementing common encryption tools for Symmetric, PKI, Homomorphic, Digital Signatures, and other security technologies.
 - 🤖 Exploring data science and machine learning with Python by building a machine learning-based malware identification system.
-- 🌐 Building a basic SDN to implement core networking technologies and concepts including subnetting, QoS, security, and more.
+- 🌐 Building a set of basic Penetration Testing tools to learn more about OSINT, Malware, and general hacking.
 - 🖥️ Working on a homelab setup for a NAS, on-premises AI, using Open Source SIEM/SOAR tools, Docker, Proxmox, and TrueNAS.
 - 📚 Learning Kali Linux and Ethical Hacking concepts and practices.
 
