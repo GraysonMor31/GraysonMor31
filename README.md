@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/I0e4u216Qhww8eRTVq/giphy.gif" width="100%" height="75%" />
+<img src="https://i.gifer.com/SUV4.gif" width="100%" height="75%" />
 
 # Hi, I'm Grayson 👋
 
