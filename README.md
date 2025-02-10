@@ -45,7 +45,7 @@ Check out some of my recent projects:
 - [Networking Fundamentals](https://github.com/GraysonMor31/Networks)
 
   ![](https://geps.dev/progress/0) 
-- [Networking Fundamentals](https://github.com/GraysonMor31/Networks) 
+- [Ethical Hacking/Pen-Test Tools](https://github.com/GraysonMor31/Ethical-Hacking-Tools) 
 
   ![](https://geps.dev/progress/0)
 - [Home Lab](https://github.com/GraysonMor31/Homelab)
