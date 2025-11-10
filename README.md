@@ -35,15 +35,9 @@ Here are some of the technologies I work with:
 ## 💬 Contact Me
 - 📧 Email: [grayson.r.morris@gmail.com](mailto:grayson.r.morris@gmail.com)
 - 💼 LinkedIn: [graysonmorris31](https://www.linkedin.com/in/graysonmorris31)
-- 🌐 Website: [graysonmorris.tech](https://graysonmorris.tech)
 
 ## 🚀 Projects & Contributions
 Check out some of my recent projects:
-- [Encryption Schemes](https://github.com/GraysonMor31/Encryption)
-
-  ![](https://geps.dev/progress/5) 
-- [Networking Fundamentals](https://github.com/GraysonMor31/Networks)
-
   ![](https://geps.dev/progress/0) 
 - [Ethical Hacking/Pen-Test Tools](https://github.com/GraysonMor31/Ethical-Hacking-Tools) 
 
