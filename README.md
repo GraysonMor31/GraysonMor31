@@ -12,15 +12,8 @@ Welcome to my GitHub! I'm a passionate IT Support Tech/Analyst interested in cyb
 
 
 ## 📈 GitHub Stats
-
-<div style="display: flex; justify-content: space-between; gap: 2px;">
-  <div style="flex: 1; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=GraysonMor31&show_icons=true&count_private=true&hide=prs" width="50%" />
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GraysonMor31" width="50%" height="50%" />
-  </div>
-</div>
+  ![GitHub Stats](https://openlabx.com/githubflarestats/api/gitfs.php/torvalds?response=image&bgColor=%231e1e1e&textColor=%23f0f0f0&cardColor=%23333&chartColor=%23ff9800&chartTextColor=white)
+- [Made With GithubFlareStats](https://github.com/openlab-x/GithubFlareStats)
 
 ## 💬 Contact Me
 - 📧 Email: [grayson.r.morris@gmail.com](mailto:grayson.r.morris@gmail.com)
