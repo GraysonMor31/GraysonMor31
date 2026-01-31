@@ -21,8 +21,6 @@ Welcome to my GitHub! I'm a passionate IT Support Tech/Analyst interested in cyb
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GraysonMor31" width="50%" height="50%" />
   </div>
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GraysonMor31)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💬 Contact Me
 - 📧 Email: [grayson.r.morris@gmail.com](mailto:grayson.r.morris@gmail.com)
