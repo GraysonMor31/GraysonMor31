@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a passionate IT Support Tech/Analyst interested in cyb
 
 
 ## 📈 GitHub Stats
-  ![GitHub Stats](https://openlabx.com/githubflarestats/api/gitfs.php/torvalds?response=image&bgColor=%231e1e1e&textColor=%23f0f0f0&cardColor=%23333&chartColor=%23ff9800&chartTextColor=white)
+  ![GitHub Stats](https://openlabx.com/githubflarestats/api/gitfs.php/GraysonMor31?response=image&bgColor=%231e1e1e&textColor=%23f0f0f0&cardColor=%23333&chartColor=%23ff9800&chartTextColor=white)
 - [Made With GithubFlareStats](https://github.com/openlab-x/GithubFlareStats)
 
 ## 💬 Contact Me
