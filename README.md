@@ -29,11 +29,6 @@ Welcome to my GitHub! I'm a passionate IT Support Tech/Analyst interested in cyb
 
 ## 🚀 Projects & Contributions
 Check out some of my recent projects:
-  ![](https://geps.dev/progress/0) 
-- [Ethical Hacking/Pen-Test Tools](https://github.com/GraysonMor31/Ethical-Hacking-Tools) 
 
   ![](https://geps.dev/progress/0)
 - [Home Lab](https://github.com/GraysonMor31/Homelab)
-
-  ![](https://geps.dev/progress/15)
-
