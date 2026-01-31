@@ -2,12 +2,25 @@
 
 # Hi, I'm Grayson
 
-Welcome to my GitHub! I'm a passionate IT Support Tech/Analyst interested in cybersecurity and big data concepts. Here you'll find some of my personal projects.
+Welcome to my GitHub! I'm a passionate IT Support Tech/Analyst interested in DevSecOps, Artificial Intelligence, and Big Data Concepts. Here you'll find some of my personal projects relating to those fields.
 
 ## 🚀 About Me
 
 
 ## 🛠️ Technologies & Tools
+My tech stack includes:
+
+### Programming Languages
+- C/C++: Low level Programming
+- Go: Network modules and concurrent programming
+- Python: AI/LLM and OOPs
+- Rust: Systems programming
+- Scala: Data processing (Spark/Hadoop) and JVM microservices
+
+### Virtualization
+- Docker
+
+### CI/CD
 
 
 
