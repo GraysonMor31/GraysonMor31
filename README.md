@@ -21,6 +21,6 @@ Welcome to my GitHub! I'm a passionate IT Support Tech/Analyst interested in cyb
 
 ## 🚀 Projects & Contributions
 Check out some of my recent projects:
-
+- [Homelab/Server](https://github.com/GraysonMor31/Homelab)
   ![](https://geps.dev/progress/0)
-- [Home Lab](https://github.com/GraysonMor31/Homelab)
+
