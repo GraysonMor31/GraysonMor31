@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate IT Support Tech/Analyst interested in Dev
 
 ## 🚀 About Me
 
-I am a new college graduate, having completed a computer science degree with a focus in networks and systems security from Colorado State University. I currently work as an IT Support Technician II in end-user support. Outside of work, I enjoy working on my home server setup, small coding projects, and just generally learning more about tech.
+I am a new college graduate, having completed a computer science degree with a focus in networks and systems security from Colorado State University. I currently work as an IT Support Technician II in end-user support. Outside of work, I enjoy building my home server setup, working on small coding projects, and learning more about tech.
 
 ## 🛠️ Technologies & Tools
 
@@ -39,7 +39,11 @@ I am a new college graduate, having completed a computer science degree with a f
 
 ## 🚀 Projects & Contributions
 Check out some of my recent projects:
-- [Homelab/Home Server](https://github.com/GraysonMor31/Homelab)
+- [Homelab/Home Server](https://github.com/GraysonMor31/Homelab) | ![](https://geps.dev/progress/0)
 
-  ![](https://geps.dev/progress/0)
+- [WinForge](https://github.com/GraysonMor31/WinForge) | ![](https://geps.dev/progress/0)
+
+- [HomCom](https://github.com/GraysonMor31/HomCom) | ![](https://geps.dev/progress/0)
+
+- [General Cybersecurity Projects](https://github.com/GraysonMor31/Cybersecurity) | ![](https://geps.dev/progress/0)
 
